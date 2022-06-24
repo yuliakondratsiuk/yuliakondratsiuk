@@ -1,4 +1,16 @@
-### Hi there 👋
+### 👋 Hi, I’m Yulia Kondratsiuk
+
+I’m currently learning quality assurance.
+
+My homeworks by V.Ksendzov course
+
+📫 How to reach me
+
+Email: yulia.kondratsiuk@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/yulia-kondratsiuk/
+
+
 
 <!--
 **yuliakondratsiuk/yuliakondratsiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
