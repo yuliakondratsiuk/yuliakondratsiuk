@@ -2,7 +2,7 @@
 
 I’m currently learning quality assurance.
 
-My homeworks by V.Ksendzov course
+[My homeworks by V.Ksendzov course](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/)
 
 📫 How to reach me
 
